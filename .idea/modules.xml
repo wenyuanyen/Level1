@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Level 1.iml" filepath="$PROJECT_DIR$/.idea/Level 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Level 2/.idea/Level 2.iml" filepath="$PROJECT_DIR$/../Level 2/.idea/Level 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Level 3/.idea/Level 3.iml" filepath="$PROJECT_DIR$/../Level 3/.idea/Level 3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Level 4/.idea/Level 4.iml" filepath="$PROJECT_DIR$/../Level 4/.idea/Level 4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Level 5/.idea/Level 5.iml" filepath="$PROJECT_DIR$/../Level 5/.idea/Level 5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Level 6/.idea/Level 6.iml" filepath="$PROJECT_DIR$/../Level 6/.idea/Level 6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Level 7/.idea/Level 7.iml" filepath="$PROJECT_DIR$/../Level 7/.idea/Level 7.iml" />
+      <module fileurl="file://$USER_HOME$/Downloads/Quantnet Python Level 2 Supplement/Mixin Example/.idea/MixinExample.iml" filepath="$USER_HOME$/Downloads/Quantnet Python Level 2 Supplement/Mixin Example/.idea/MixinExample.iml" />
+    </modules>
+  </component>
+</project>
